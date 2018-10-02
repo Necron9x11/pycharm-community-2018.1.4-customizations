@@ -1,0 +1,57 @@
+<application>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="12562" />
+      <entry shortcut="Ctrl+3" count="1" />
+      <entry shortcut="Ctrl+A" count="1" />
+      <entry shortcut="Ctrl+Alt+V" count="3" />
+      <entry shortcut="Ctrl+B" count="1" />
+      <entry shortcut="Ctrl+Back Slash" count="3" />
+      <entry shortcut="Ctrl+C" count="18" />
+      <entry shortcut="Ctrl+D" count="1" />
+      <entry shortcut="Ctrl+Delete" count="4" />
+      <entry shortcut="Ctrl+Down" count="1" />
+      <entry shortcut="Ctrl+Enter" count="1" />
+      <entry shortcut="Ctrl+F" count="2" />
+      <entry shortcut="Ctrl+F1" count="4" />
+      <entry shortcut="Ctrl+Left" count="290" />
+      <entry shortcut="Ctrl+Minus" count="2" />
+      <entry shortcut="Ctrl+N" count="1" />
+      <entry shortcut="Ctrl+Period" count="6" />
+      <entry shortcut="Ctrl+R" count="4" />
+      <entry shortcut="Ctrl+Right" count="583" />
+      <entry shortcut="Ctrl+Right+Ctrl+Right" count="10" />
+      <entry shortcut="Ctrl+S" count="55" />
+      <entry shortcut="Ctrl+Shift+V" count="1" />
+      <entry shortcut="Ctrl+Slash" count="358" />
+      <entry shortcut="Ctrl+Space" count="1" />
+      <entry shortcut="Ctrl+Up" count="3" />
+      <entry shortcut="Ctrl+V" count="65" />
+      <entry shortcut="Ctrl+W" count="1" />
+      <entry shortcut="Ctrl+X" count="5" />
+      <entry shortcut="Ctrl+Z" count="32" />
+      <entry shortcut="Delete" count="6112" />
+      <entry shortcut="Down" count="7231" />
+      <entry shortcut="End" count="269" />
+      <entry shortcut="Enter" count="3077" />
+      <entry shortcut="Escape" count="652" />
+      <entry shortcut="F1" count="1" />
+      <entry shortcut="F12" count="2" />
+      <entry shortcut="F3" count="8" />
+      <entry shortcut="F5" count="2" />
+      <entry shortcut="Home" count="55" />
+      <entry shortcut="Insert" count="11" />
+      <entry shortcut="Left" count="4909" />
+      <entry shortcut="Page Down" count="26" />
+      <entry shortcut="Page Up" count="17" />
+      <entry shortcut="Right" count="5469" />
+      <entry shortcut="Shift+Backspace" count="3" />
+      <entry shortcut="Shift+Enter" count="11" />
+      <entry shortcut="Shift+Right" count="3" />
+      <entry shortcut="Shift+Shift" count="6" />
+      <entry shortcut="Shift+Up" count="3" />
+      <entry shortcut="Tab" count="733" />
+      <entry shortcut="Up" count="4772" />
+    </counts>
+  </component>
+</application>

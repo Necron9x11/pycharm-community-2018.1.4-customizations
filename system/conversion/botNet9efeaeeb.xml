@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/necron9x11/Code/python/violentPython/ch02/botNet/.idea/botNet.iml" timestamp="1515328249000" />
+    <file path="/home/necron9x11/Code/python/violentPython/ch02/botNet/.idea/misc.xml" timestamp="1515328110000" />
+    <file path="/home/necron9x11/Code/python/violentPython/ch02/botNet/.idea/modules.xml" timestamp="1515328104000" />
+    <file path="/home/necron9x11/Code/python/violentPython/ch02/botNet/.idea/vcs.xml" timestamp="1515330402000" />
+    <file path="/home/necron9x11/Code/python/violentPython/ch02/botNet/.idea/workspace.xml" timestamp="1517455291000" />
+  </project-files>
+</conversion>
+

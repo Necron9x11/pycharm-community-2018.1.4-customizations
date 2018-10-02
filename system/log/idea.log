@@ -1,0 +1,146 @@
+2018-07-14 07:54:01,111 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-07-14 07:54:01,188 [     77]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 02:01) 
+2018-07-14 07:54:01,188 [     77]   INFO -        #com.intellij.idea.Main - OS: Linux (4.4.0-128-generic, amd64) 
+2018-07-14 07:54:01,188 [     77]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-07-14 07:54:01,188 [     77]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-07-14 07:54:01,189 [     78]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/necron9x11/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/necron9x11/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/opt/pycharm-community-2018.1.4/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-07-14 07:54:01,189 [     78]   INFO -        #com.intellij.idea.Main - ext: /opt/pycharm-community-2018.1.4/jre64/lib/ext: [nashorn.jar, sunjce_provider.jar, jaccess.jar, sunec.jar, meta-index, zipfs.jar, localedata.jar, dnsns.jar, cldrdata.jar, sunpkcs11.jar, jfxrt.jar] 
+2018-07-14 07:54:01,190 [     79]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-07-14 07:54:01,201 [     90]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 11 ms 
+2018-07-14 07:54:01,404 [    293]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-07-14 07:54:01,404 [    293]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-07-14 07:54:24,180 [  23069]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@4e413c25[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@7ce8a05f 
+2018-07-14 07:54:24,194 [  23083]   INFO - .intellij.idea.IdeaApplication - WM detected: Compiz 
+2018-07-14 07:54:24,763 [  23652]   INFO - llij.ide.plugins.PluginManager - 19 plugins initialized in 449 ms 
+2018-07-14 07:54:24,763 [  23652]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-07-14 07:54:24,763 [  23652]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: IdeaVim (0.49) 
+2018-07-14 07:54:25,044 [  23933]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/necron9x11/.PyCharmCE2018.1/system/caches/names.dat' does not exist 
+2018-07-14 07:54:25,046 [  23935]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-07-14 07:54:25,074 [  23963]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/pycharm-community-2018.1.4/bin/fsnotifier64 
+2018-07-14 07:54:25,085 [  23974]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-07-14 07:54:25,217 [  24106]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2018-07-14 07:54:25,217 [  24106]   INFO - pi.util.registry.RegistryState -   debugger.watches.in.variables = false 
+2018-07-14 07:54:25,443 [  24332]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=1.25; restored: fontSize=15, fontScale=1.0 
+2018-07-14 07:54:25,568 [  24457]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-07-14 07:54:25,585 [  24474]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-07-14 07:54:25,602 [  24491]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-07-14 07:54:25,602 [  24491]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-07-14 07:54:25,744 [  24633]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@6363e71c 
+2018-07-14 07:54:25,903 [  24792]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-07-14 07:54:25,974 [  24863]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63343 
+2018-07-14 07:54:26,017 [  24906]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-07-14 07:54:26,098 [  24987]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:26, number of extensions:18 
+2018-07-14 07:54:26,102 [  24991]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:3 
+2018-07-14 07:54:26,120 [  25009]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:6, number of extensions:10 
+2018-07-14 07:54:26,120 [  25009]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-07-14 07:54:26,264 [  25153]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@5e2aee7d 
+2018-07-14 07:54:26,264 [  25153]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@27ead974 
+2018-07-14 07:54:26,264 [  25153]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@703e8561 
+2018-07-14 07:54:26,265 [  25154]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-07-14 07:54:26,388 [  25277]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/necron9x11/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-07-14 07:54:26,559 [  25448]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:PythonStub,HTML,Properties,XML,Python 
+2018-07-14 07:54:26,653 [  25542]   INFO - pl$FileIndexDataInitialization - Initialization done:550 
+2018-07-14 07:54:26,681 [  25570]   INFO - exImpl$StubIndexInitialization - Initialization done:27 
+2018-07-14 07:54:26,697 [  25586]   INFO - plication.impl.ApplicationImpl - 76 application components initialized in 2388ms 
+2018-07-14 07:54:26,704 [  25593]   INFO - .intellij.idea.IdeaApplication - App initialization took 25985 ms 
+2018-07-14 07:54:27,588 [  26477]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@49bf26f2 
+2018-07-14 07:54:27,874 [  26763]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-07-14 07:54:27,875 [  26764]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/necron9x11/Code/python/violentPython] 
+2018-07-14 07:54:27,993 [  26882]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@21a9ebe8 
+2018-07-14 07:54:28,167 [  27056]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@1a3cd8d3 
+2018-07-14 07:54:28,176 [  27065]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@4582d3f6 
+2018-07-14 07:54:28,219 [  27108]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-07-14 07:54:28,221 [  27110]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=1.25; restored: fontSize=15, fontScale=1.0 
+2018-07-14 07:54:28,414 [  27303]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 1147 ms 
+2018-07-14 07:54:28,657 [  27546]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 242 ms 
+2018-07-14 07:54:28,742 [  27631]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-07-14 07:54:29,962 [  28851]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 8 roots in 1 SDKs took 425ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:54:29,998 [  28887]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-07-14 07:54:30,168 [  29057]   INFO - m.maddyhome.idea.vim.VimPlugin - Sending statistics: https://plugins.jetbrains.com/plugins/list?pluginId=IdeaVIM&build=PC-181.5087.37&pluginVersion=0.49&os=Linux+4.4.0-128-generic&uuid=14dea7ff-5aa3-470c-9b08-3c1d9ab01488 
+2018-07-14 07:54:30,553 [  29442]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1177ms under project opening modal progress 
+2018-07-14 07:54:30,575 [  29464]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1234ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-07-14 07:54:32,412 [  31301]   INFO - j.ide.ui.OptionsTopHitProvider - 410 ms spent to cache options in application 
+2018-07-14 07:54:32,417 [  31306]   INFO - tartup.impl.StartupManagerImpl - /home/necron9x11/Code/python/violentPython/ch02/botNet/.idea case-sensitivity: expected=true actual=true 
+2018-07-14 07:54:32,463 [  31352]   INFO -  #git4idea.commands.GitHandler - [.] git version 
+2018-07-14 07:54:32,474 [  31363]   INFO -  #git4idea.commands.GitHandler - git version 2.7.4 
+2018-07-14 07:54:32,481 [  31370]   INFO - ea.config.GitExecutableManager - Git version for /usr/bin/git : 2.7.4 
+2018-07-14 07:54:32,648 [  31537]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/necron9x11/Code/python/violentPython] 
+2018-07-14 07:54:32,949 [  31838]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 5803 ms 
+2018-07-14 07:54:33,253 [  32142]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2715ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish, 1/3 very slow 
+2018-07-14 07:54:43,035 [  41924]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 9780ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:54:43,046 [  41935]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 34867 files to update 
+2018-07-14 07:54:43,421 [  42310]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/necron9x11/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-07-14 07:55:07,982 [  66871]   INFO - ellij.vfs.persistent.FSRecords - Contents:16384 of 27329939, reuses:61 of 36412 for 295 
+2018-07-14 07:55:22,866 [  81755]   INFO - ellij.vfs.persistent.FSRecords - Contents:32768 of 38289779, reuses:61 of 36412 for 390 
+2018-07-14 07:55:26,960 [  85849]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 43914ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:55:27,421 [  86310]   INFO - j.ide.ui.OptionsTopHitProvider - 258 ms spent to cache options in project 
+2018-07-14 07:55:27,513 [  86402]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 7/14/18 7:54 AM) 
+2018-07-14 07:55:27,706 [  86595]   INFO - hon.packaging.PyPIPackageCache - Package cache /home/necron9x11/.PyCharmCE2018.1/system/python_packages/pypi-cache.json was not found 
+2018-07-14 07:55:30,653 [  89542]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -c . '/home/necron9x11/venv/botNet/bin/activate';'/opt/pycharm-community-2018.1.4/bin/printenv.py' '/tmp/intellij-shell-env.tmp' 
+2018-07-14 07:55:30,685 [  89574]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 39 ms 
+2018-07-14 07:55:30,686 [  89575]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python35.zip 
+2018-07-14 07:55:30,687 [  89576]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.5 (botNet) (/home/necron9x11/venv/botNet/bin/python)): /home/necron9x11/.PyCharmCE2018.1/system/python_stubs/-1678689521 
+2018-07-14 07:55:30,687 [  89576]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.5 (botNet) (/home/necron9x11/venv/botNet/bin/python)): /opt/pycharm-community-2018.1.4/helpers/python-skeletons 
+2018-07-14 07:55:30,702 [  89591]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-07-14 07:55:30,743 [  89632]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.5 (botNet) (/home/necron9x11/venv/botNet/bin/python) 
+2018-07-14 07:55:30,744 [  89633]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/necron9x11/venv/botNet/bin/python 
+2018-07-14 07:55:30,746 [  89635]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 8 roots in 1 SDKs took 7ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:55:30,767 [  89656]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (74 vars) 
+2018-07-14 07:55:30,841 [  89730]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 86ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:55:31,012 [  89901]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 236 ms 
+2018-07-14 07:55:31,015 [  89904]   INFO - tPregeneratedSkeletonsProvider - Home path is /opt/pycharm-community-2018.1.4 
+2018-07-14 07:55:31,585 [  90474]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 550 ms 
+2018-07-14 07:55:31,644 [  90533]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 803ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:55:31,649 [  90538]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 16 files to update 
+2018-07-14 07:55:31,760 [  90649]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 111ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 07:55:34,290 [  93179]   INFO - .skeletons.PySkeletonGenerator - Rebuilding builtin skeletons took 2703 ms 
+2018-07-14 07:55:34,290 [  93179]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _bz2 
+2018-07-14 07:55:34,397 [  93286]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_cn 
+2018-07-14 07:55:34,499 [  93388]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_hk 
+2018-07-14 07:55:34,603 [  93492]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_iso2022 
+2018-07-14 07:55:34,704 [  93593]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_jp 
+2018-07-14 07:55:34,807 [  93696]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_kr 
+2018-07-14 07:55:34,909 [  93798]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_tw 
+2018-07-14 07:55:35,009 [  93898]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _crypt 
+2018-07-14 07:55:35,112 [  94001]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _csv 
+2018-07-14 07:55:35,232 [  94121]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes 
+2018-07-14 07:55:35,352 [  94241]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes_test 
+2018-07-14 07:55:35,452 [  94341]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses 
+2018-07-14 07:55:35,565 [  94454]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses_panel 
+2018-07-14 07:55:35,673 [  94562]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbm 
+2018-07-14 07:55:35,775 [  94664]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _decimal 
+2018-07-14 07:55:35,935 [  94824]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _gdbm 
+2018-07-14 07:55:36,037 [  94926]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _hashlib 
+2018-07-14 07:55:36,147 [  95036]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _json 
+2018-07-14 07:55:36,258 [  95147]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lsprof 
+2018-07-14 07:55:36,374 [  95263]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lzma 
+2018-07-14 07:55:36,483 [  95372]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multibytecodec 
+2018-07-14 07:55:36,585 [  95474]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multiprocessing 
+2018-07-14 07:55:36,689 [  95578]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _opcode 
+2018-07-14 07:55:36,788 [  95677]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _sqlite3 
+2018-07-14 07:55:36,986 [  95875]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ssl 
+2018-07-14 07:55:37,143 [  96032]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testbuffer 
+2018-07-14 07:55:37,245 [  96134]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testcapi 
+2018-07-14 07:55:37,359 [  96248]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testimportmultiple 
+2018-07-14 07:55:37,463 [  96352]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testmultiphase 
+2018-07-14 07:55:37,570 [  96459]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _tkinter 
+2018-07-14 07:55:37,691 [  96580]   INFO - .skeletons.PySkeletonRefresher - Skeleton for audioop 
+2018-07-14 07:55:37,797 [  96686]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cmath 
+2018-07-14 07:55:37,902 [  96791]   INFO - .skeletons.PySkeletonRefresher - Skeleton for fpectl 
+2018-07-14 07:55:38,003 [  96892]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mmap 
+2018-07-14 07:55:38,120 [  97009]   INFO - .skeletons.PySkeletonRefresher - Skeleton for nis 
+2018-07-14 07:55:38,228 [  97117]   INFO - .skeletons.PySkeletonRefresher - Skeleton for ossaudiodev 
+2018-07-14 07:55:38,331 [  97220]   INFO - .skeletons.PySkeletonRefresher - Skeleton for parser 
+2018-07-14 07:55:38,436 [  97325]   INFO - .skeletons.PySkeletonRefresher - Skeleton for readline 
+2018-07-14 07:55:38,567 [  97456]   INFO - .skeletons.PySkeletonRefresher - Skeleton for resource 
+2018-07-14 07:55:38,673 [  97562]   INFO - .skeletons.PySkeletonRefresher - Skeleton for termios 
+2018-07-14 07:55:38,785 [  97674]   INFO - .skeletons.PySkeletonRefresher - Skeleton for xxlimited 
+2018-07-14 07:55:38,895 [  97784]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 4605 ms 
+2018-07-14 07:55:38,925 [  97814]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK /home/necron9x11/venv/botNet/bin/python 
+2018-07-14 07:55:38,927 [  97816]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/necron9x11/venv/botNet/bin/python /opt/pycharm-community-2018.1.4/helpers/packaging_tool.py list 
+2018-07-14 07:55:38,950 [  97839]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.5 (botNet) (/home/necron9x11/venv/botNet/bin/python) 
+2018-07-14 07:55:38,950 [  97839]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/necron9x11/venv/botNet/bin/python /opt/pycharm-community-2018.1.4/helpers/packaging_tool.py list 
+2018-07-14 07:55:38,987 [  97876]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 95 to update, calculated in 4ms 
+2018-07-14 07:55:39,720 [  98609]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 733ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-07-14 08:47:24,519 [3203408]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 143 
+2018-07-14 08:47:24,520 [3203409]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/pycharm-community-2018.1.4/bin/fsnotifier64 

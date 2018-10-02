@@ -1,0 +1,31 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="35" />
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="StripeButton[Version Control].shown" count="6" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="43" />
+      <entry feature="execute.PythonConfigurationType.Run" count="711" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.reference.dialogs.rundebug.PythonConfigurationType" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.File and Code Templates" count="20" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project Interpreter" count="18" />
+      <entry feature="ide.settings.Python Console" count="4" />
+      <entry feature="ide.settings.Version Control" count="3" />
+      <entry feature="ideaapp.started" count="33" />
+      <entry feature="python.console.local" count="22" />
+      <entry feature="terminal.linux" count="22" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="15" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="welcome.screen.null" count="40" />
+    </counts>
+  </component>
+</application>

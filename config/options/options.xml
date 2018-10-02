@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65373963" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Python Script - Violent Python Project Header" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="pexpect" />
+    <property name="PLUGIN_FILTER" value="snippe&#10;git&#10;code&#10;snippet&#10;vim" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="m3@tL01n!" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py&#10;/home/necron9x11/Code/python/violentPython/ch01/vulnscanner.py&#10;/home/necron9x11/Code/python/violentPython/ch01/ch1_p_25-29.py&#10;/home/necron9x11/Code/python/violentPython/ch02/botNet/sshBotNet.PY&#10;/home/necron9x11/Code/python/examples/argparse/beyondSysArgv&#10;/home/necron9x11/Code/python/examples&#10;/home/necron9x11/Code/python/violentPython/ch02/botNet&#10;/usr/bin/python3.5&#10;/home/necron9x11/Code/python/violentPython/ch02/portScanner&#10;/home/necron9x11/Code/python/violentPython/ch02/portScanner/venv&#10;/home/necron9x11/Code/python/examples/testPycharmEnv&#10;/home/necron9x11/Code/python/violentPython/ch01/ch1_p_25-26.py&#10;/home/necron9x11/Code/python/3.5.4&#10;/home/necron9x11/Code/python/violentPython/ch01/bookCode.iml&#10;/home/necron9x11/Code/python/violentPython/ch01&#10;/home/necron9x11/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l111.instances.Constructors.Self&#10;/home/necron9x11/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l110.oo.programming.and.classes/lecture Code.py&#10;/home/necron9x11/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l110.oo.programming.and.classes&#10;/home/necron9x11/Code/python/class/udemy/masterClass/s12.object.oriented.python&#10;/home/necron9x11/Code/python/pythonAlgorithms_LieH/scratch/linkedListExample&#10;/home/necron9x11/Code/python/pythonAlgorithms_LieH/scratch/timing_ex_01/timing_ex_01_py36.py&#10;/home/necron9x11/Code/python/pythonAlgorithms_LieH/scratch/timing_ex_01&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-22&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-21&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-20&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-19&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-18&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-17&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-16&#10;/home/necron9x11/Code/python/pythonWorkbook100exercises/ex-15" />
+    <property name="file.gist.reindex.count" value="40881" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="ideavim.statistics.timestamp" value="1531572870167" />
+    <property name="lastTip" value="29" />
+    <property name="settings.code.style.selected.tab.Python" value="Imports" />
+  </component>
+</application>

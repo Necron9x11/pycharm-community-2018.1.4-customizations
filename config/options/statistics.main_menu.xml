@@ -1,0 +1,35 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Code Cleanup..." count="1" />
+      <entry path="Code -&gt; Inspect Code..." count="1" />
+      <entry path="Code -&gt; Optimize Imports" count="1" />
+      <entry path="Code -&gt; Surround With..." count="1" />
+      <entry path="Edit -&gt; Find -&gt; Find..." count="1" />
+      <entry path="Edit -&gt; Find -&gt; Replace..." count="5" />
+      <entry path="Edit -&gt; Paste from History..." count="1" />
+      <entry path="Edit -&gt; Undo" count="1" />
+      <entry path="File -&gt; Close Project" count="44" />
+      <entry path="File -&gt; Default Settings..." count="5" />
+      <entry path="File -&gt; New Project..." count="7" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="4" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="2" />
+      <entry path="File -&gt; Open..." count="7" />
+      <entry path="File -&gt; Rename Project..." count="1" />
+      <entry path="File -&gt; Settings..." count="33" />
+      <entry path="Help -&gt; Help" count="2" />
+      <entry path="Run -&gt; Attach to Local Process..." count="1" />
+      <entry path="Run -&gt; Edit Configurations..." count="28" />
+      <entry path="Run -&gt; Import Test Results -&gt; Edit Configurations..." count="1" />
+      <entry path="Run -&gt; Run..." count="1" />
+      <entry path="View -&gt; Toggle Presentation mode" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Event Log" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Python Console" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Run" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; TODO" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="8" />
+      <entry path="View -&gt; Toolbar" count="1" />
+    </counts>
+  </component>
+</application>

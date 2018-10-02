@@ -1,0 +1,460 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/python/violentPython/ch02/botNet" />
+        <option value="$USER_HOME$/Code/python/violentPython/ch02/portScanner" />
+        <option value="$USER_HOME$/Code/python/examples/argparse/beyondSysArgv" />
+        <option value="$USER_HOME$/Code/python/violentPython/ch01" />
+        <option value="$USER_HOME$/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l111.instances.Constructors.Self" />
+        <option value="$USER_HOME$/Code/python/violentPython/ch01_p_25" />
+        <option value="$USER_HOME$/Code/python/pythonAlgorithms_LieH/scratch/linkedListExample" />
+        <option value="$USER_HOME$/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l110.oo.programming.and.classes" />
+        <option value="$USER_HOME$/Code/python/pythonAlgorithms_LieH/scratch/timing_ex_01" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-21" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-20" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-19" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-18" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-17" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-16" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-15" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-14" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-13" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/untitled" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-12" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-11" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-010" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-09" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-08" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-07" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-06" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-05" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-04" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-03" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-02" />
+        <option value="$USER_HOME$/Code/python/pythonWorkbook100exercises" />
+        <option value="$USER_HOME$/Code/python/pycharm/pluralsightTutorial/pythonCrashCourse" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Code/python/violentPython/ch02/botNet" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/python/violentPython/ch02/botNet" />
+    <option name="pid" value="14692" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515260038701" />
+              <option name="buildTimestamp" value="1513635497727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l110.oo.programming.and.classes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514989210251" />
+              <option name="buildTimestamp" value="1513635510416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/class/udemy/masterClass/s12.object.oriented.python/s12.l111.instances.Constructors.Self">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515222981301" />
+              <option name="buildTimestamp" value="1513635482156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/examples/argparse/beyondSysArgv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515376759188" />
+              <option name="buildTimestamp" value="1513635536395" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/examples/testPycharmEnv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515260348305" />
+              <option name="buildTimestamp" value="1513635497727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pycharm/pluralsightTutorial/pythonCrashCourse">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514707186286" />
+              <option name="buildTimestamp" value="1513635482729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonAlgorithms_LieH/scratch/linkedListExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514989514265" />
+              <option name="buildTimestamp" value="1513635510416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonAlgorithms_LieH/scratch/timing_ex_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514979110873" />
+              <option name="buildTimestamp" value="1513635510416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514885607793" />
+              <option name="buildTimestamp" value="1513635501650" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-010">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514893462934" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514889472873" />
+              <option name="buildTimestamp" value="1513635517047" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514890030778" />
+              <option name="buildTimestamp" value="1513635517047" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514890351466" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514890517589" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514891205910" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-07">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514891625430" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-08">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514891834863" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-09">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514892084118" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-11">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514894687846" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514896303803" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514899671556" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-14">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514900678594" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-15">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514901081728" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-16">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514902065635" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-17">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514902405941" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-18">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514903694824" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514905506802" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-20">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514906757374" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-21">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514917112049" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514974936488" />
+              <option name="buildTimestamp" value="1513635510416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/pythonWorkbook100exercises/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514896319454" />
+              <option name="buildTimestamp" value="1513635538093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/violentPython/ch01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515256746097" />
+              <option name="buildTimestamp" value="1513635482156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/violentPython/ch01_p_25">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515221092171" />
+              <option name="buildTimestamp" value="1513635516586" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/botNet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517455291072" />
+              <option name="buildTimestamp" value="1513635492448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515387194148" />
+              <option name="buildTimestamp" value="1513635514984" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515254269534" />
+              <option name="buildTimestamp" value="1513635482156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/portScanner.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515260754999" />
+              <option name="buildTimestamp" value="1513635497727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Code/python/examples/argparse" />
+  </component>
+</application>

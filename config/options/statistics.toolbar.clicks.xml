@@ -1,0 +1,46 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="$Redo@MainToolbar" count="3" />
+      <entry action="$Undo@MainToolbar" count="18" />
+      <entry action="ChangesView.Revert@MainToolbar" count="1" />
+      <entry action="Debug@MainToolbar" count="39" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="13" />
+      <entry action="OpenFile@MainToolbar" count="19" />
+      <entry action="PinToolwindowTab@RunnerToolbar" count="3" />
+      <entry action="Rerun@DebuggerToolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="5" />
+      <entry action="Run@MainToolbar" count="152" />
+      <entry action="RunToCursor@DebuggerToolbar" count="5" />
+      <entry action="Runner.RestoreLayout@DebuggerToolbar" count="5" />
+      <entry action="Runner.RestoreLayout@RunnerToolbar" count="1" />
+      <entry action="SaveAll@MainToolbar" count="11" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="1" />
+      <entry action="StepInto@DebuggerToolbar" count="502" />
+      <entry action="StepIntoMyCode@DebuggerToolbar" count="14" />
+      <entry action="StepOut@DebuggerToolbar" count="170" />
+      <entry action="StepOver@DebuggerToolbar" count="1" />
+      <entry action="Stop@DebuggerToolbar" count="2" />
+      <entry action="Stop@MainToolbar" count="26" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="1" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="11" />
+      <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="7" />
+      <entry action="com.intellij.codeInspection.ui.CloseAction@CodeInspection" count="1" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedToggleAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedWrapTextAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="6" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="6" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="29" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="1" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$7@PydevConsoleRunner" count="8" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$7@PydevConsoleRunnerErrors" count="2" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$NewConsoleAction@PydevConsoleRunner" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="3" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

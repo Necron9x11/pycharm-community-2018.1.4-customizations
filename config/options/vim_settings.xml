@@ -1,0 +1,247 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1515328488762">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1517372209593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1515506345376">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/pexpectTests/pexpect_ssh_test.PY" timestamp="1517453834633">
+        <mark key="[" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/pexpect-login-function-example.py" timestamp="1515407713774">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/sshBotNet_pp_50-52.PY" timestamp="1517373152656">
+        <mark key="[" line="162" column="103" />
+        <mark key="]" line="162" column="103" />
+        <mark key="." line="162" column="103" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/3-sshBrute.py" timestamp="1515448791245">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/3-sshBrute.py" timestamp="1515581715424">
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22/Other Solutions.py" timestamp="1514943081569">
+        <mark key="[" line="12" column="119" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/sshBotNet_v02.PY" timestamp="1515490574257">
+        <mark key="'" line="215" column="1" />
+        <mark key="[" line="211" column="63" />
+        <mark key="]" line="211" column="62" />
+        <mark key="." line="211" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1515261894759">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v05.py" timestamp="1515487811802">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/pizzaClass.py" timestamp="1515578371441">
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/sshBotNet.PY" timestamp="1517371306699">
+        <mark key="[" line="377" column="8" />
+        <mark key="]" line="377" column="8" />
+        <mark key="." line="377" column="8" />
+        <mark key="^" line="377" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/sshBotNet2.PY" timestamp="1515962131088">
+        <mark key="[" line="416" column="11" />
+        <mark key="]" line="416" column="11" />
+        <mark key="." line="416" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v01.py" timestamp="1515486279971">
+        <mark key="'" line="4" column="11" />
+        <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch01/ch_p_25-26.py" timestamp="1515223084770">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v03.py" timestamp="1515486867050">
+        <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/pexpect-example-02.py" timestamp="1515968510924">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/bound-semaphore-example.py" timestamp="1515484327332">
+        <mark key="'" line="5" column="9" />
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517372914135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/threading-example-01.py" timestamp="1515485037019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v06.py" timestamp="1515488469480">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/sshBruteForce_tmp.py" timestamp="1515967660099">
+        <mark key="[" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v04.py" timestamp="1515487537396">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="63" />
+        <mark key="." line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/pexpect-example-01.py" timestamp="1517453781406" />
+      <file name="$USER_HOME$/Code/python/violentPython/ch02/botNet/pass.txt" timestamp="1515967464938">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-04/ex-04" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-05/ex-05.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-010/ex-10.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-010/ex-10.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-21/ex-21.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-21/ex-21.py" />
+      <jump line="60" column="9" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22/ex-22.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22/ex-22.py" />
+      <jump line="70" column="47" filename="$USER_HOME$/Code/python/pythonWorkbook100exercises/ex-22/ex-22.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/python/violentPython/ch01/ch1_p_25-29.py" />
+      <jump line="246" column="2" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/portScanner.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch.py" />
+      <jump line="38" column="26" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/scratch4.py" />
+      <jump line="2" column="12" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/nmap_code_snippet.py" />
+      <jump line="45" column="33" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/nmapExampleCode.py" />
+      <jump line="41" column="29" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/nmapExampleCode.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/python/violentPython/ch02/portScanner/nmapExampleCode.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/pexpect-example-01.py" />
+      <jump line="5" column="19" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/pexpect-login-function-example.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/pexpect-login-function-example.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/bound-semaphore-example.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/BankAccountClass/Bank-Account-Class-v01.py" />
+      <jump line="296" column="42" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/sshBotNet.PY" />
+      <jump line="213" column="1" filename="$USER_HOME$/Code/python/violentPython/ch02/botNet/ignoreMe/sshBotNet_v02.PY" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb25uZWN0aW9uX2xvY2tcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICBwcmludCgnREJHOiBjaGlsZC5iZWZvcmUgPT0ge30nLmZvcm1hdChjaGlsZC5iZWZvcmUpKQogICAgICAgICMgICAgIHByaW50KCdEQkc6IGNoaWxkLmFmdGVyID09IHt9Jy5mb3JtYXQoY2hpbGQuYWZ0ZXIpKQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojCiMgRmlsZW5hbWU6IHZ1bG5zY2FubmVyLnB5CiMKIyBWaW9sZW50IFB5dGhvbiAtIEEgQ29va2Jvb2sgZm9yIEhhY2tlcnMsRm9yZW5zaWMgQW5hbHlzdHMsUGVuZXRyYXRpb24gVGVzdGVycyBhbmQgU2VjdXJpdHkgRW5naW5lZXJzCiMgQ2hhcHRlciA8IE4gPiB8IDwgRVhBTVBMRSBERVNDUklQVElPTiA+IC0gdmVyc2lvbiA8IE4gPgojCiMgTk9URTogVGhpcyBpcyBhIG1vZGlmaWVkIHZlcnNpb24gb2YgdGhlIGZpbmFsIHZlcnNpb24gb2YgdGhlIDwgREVTQ1JJUFRJT04gPiBmcm9tIHBhZ2VzIDwgTiA+IHRocm91Z2ggPCBOID4uCiMKIyBPcmlnaW5hbCBBdXRob3I6IFRKIE8nQ29ubm9yCiMgTW9kaWZpZWQgdG8gcnVuIHVuZGVyIFB5dGhvbiAzLnggYnk6IERhbmllbCBSYXBoYWVsCiMKIw==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBjaGlsZC5leHBlY3QoJ2Z0cD4gJykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBjaGlsZC5zZW5kbGluZSgnZ2V0IFJFQURNRScpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBjaGlsZC5leHBlY3QoJ2Z0cD4gJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LnNlbmRsaW5lKCdjZCBwdWIvT3BlbkJTRCcpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMga2V5X251bWJlciA9IDAK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGlmIGhvc3QgPT0gTm9uZSBvciBwYXNzd29yZF9maWxlID09IE5vbmUgb3IgdXNlciA9PSBOb25lOgogICAgICAgIHByaW50CiAgICAgICAgcGFyc2VyLnVzYWdlCiAgICAgICAgc3lzLmV4aXQoMCk=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBob3N0ID09IE5vbmUgb3IgcGFzc0RpciA9PSBOb25lIG9yIHVzZXIgPT0gTm9uZToKICAgICAgICAgICAgcHJpbnQgcGFyc2VyLnVzYWdlCiAgICAgICAgICAgIGV4aXQoMCk=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBwcC41MC01MiBzc2hCb3ROZXQuUFk6MzQ1Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjb25uZWN0aW9uX2xvY2tcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjb25uZWN0aW9uX2xvY2tcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxRdWVzdGlvblw+</entry>
+        <entry encoding="base64">XDxkXD4=</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uX2xvY2tcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

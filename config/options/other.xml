@@ -1,0 +1,34 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.6.4/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv.old/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.6.4/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv.old/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.6.4/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/portScanner.py/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv.old/bin/python" value="false" />
+        <entry key="$USER_HOME$/Code/python/violentPython/ch02/portScanner/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
